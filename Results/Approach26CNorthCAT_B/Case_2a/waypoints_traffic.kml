@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Placemark>
+         <Point>
+            <coordinates>12.099304114080203,48.38591237068512,1523.9256324291373</coordinates>
+            <altitudeMode>absolute</altitudeMode>
+         </Point>
+         <name>FAF_26R</name>
+      </Placemark>
+      <Placemark>
+         <Point>
+            <coordinates>11.938692407215871,48.37458727214255,1066.7479427003962</coordinates>
+            <altitudeMode>absolute</altitudeMode>
+         </Point>
+         <name>SPT_26R</name>
+      </Placemark>
+      <Placemark>
+         <Point>
+            <coordinates>11.860391924320663,48.36909346431525,761.9628162145686</coordinates>
+            <altitudeMode>absolute</altitudeMode>
+         </Point>
+         <name>END_26R</name>
+      </Placemark>
+      <Placemark>
+         <Point>
+            <coordinates>11.82116667,48.36683333,441.633648277964</coordinates>
+            <altitudeMode>absolute</altitudeMode>
+         </Point>
+         <name>THRSHLD_26R</name>
+      </Placemark>
+   </Document>
+</kml>

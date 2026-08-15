@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Style id="lightRedPoly">
+         <PolyStyle>
+            <color>ff9999ff</color>
+         </PolyStyle>
+      </Style>
+      <Placemark>
+         <Style id="lightRedPoly">
+            <PolyStyle>
+               <color>ff9999ff</color>
+            </PolyStyle>
+         </Style>
+         <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+               <LinearRing>
+                  <coordinates>11.889893250621183,48.36559015642211,703.796274009919 11.87682377702121,48.4203589390267,703.796274009919 12.001639051407487,48.42899627789336,703.796274009919 12.014574207295484,48.37422762510394,703.796274009919</coordinates>
+               </LinearRing>
+            </outerBoundaryIs>
+         </Polygon>
+      </Placemark>
+   </Document>
+</kml>

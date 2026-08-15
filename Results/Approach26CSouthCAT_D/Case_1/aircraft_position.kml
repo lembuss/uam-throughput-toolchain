@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Placemark>
+         <Point>
+            <coordinates>12.016634432959767,48.35928590811322,1273.1813644878994</coordinates>
+            <altitudeMode>absolute</altitudeMode>
+         </Point>
+         <name>ac</name>
+      </Placemark>
+   </Document>
+</kml>

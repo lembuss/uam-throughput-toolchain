@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Placemark>
+         <LineString>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>11.476110389588424,48.3211272250876,1523.9256324291373 11.633692990198558,48.332030638848494,1066.7479427003962 11.711944893966479,48.337471342965685,761.9628162145686 11.751,48.34066667,452.91069795793965</coordinates>
+         </LineString>
+      </Placemark>
+   </Document>
+</kml>
